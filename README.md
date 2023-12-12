@@ -1,8 +1,5 @@
-# Tugas 4 PWEB B
-
-Nama  : Katarina Inezita Prambudi
-NRP : 5025211148
-Kelas : PWEB B
+Alya Putri Salma
+5025211174
 
 ## Deskripsi Tugas
-Buatlah sebuah form registrasi yang terdiri dari nama mahasiswa, nim, mata kuliah, dan dosen. Form registrasi ini memiliki aturan sebagai berikut. Ketika pengguna sistem akan mengisikan data nama dengan memasukkan huruf tertentu maka akan muncul rekomendasi tertentu. Gunakan referensi di internet ataupun yang lainnya untuk memecahkan kasus tersebut.
+Buatlah formulir registrasi dengan bidang nama mahasiswa, NIM, mata kuliah, dan dosen, yang dilengkapi dengan aturan tertentu. Saat pengguna menginputkan nama, sistem akan menampilkan rekomendasi berdasarkan huruf-huruf tertentu. Gunakan sumber referensi dari internet atau sumber lainnya untuk mengatasi permasalahan ini.
